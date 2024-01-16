@@ -16,4 +16,4 @@ This project provides a collection of different methods and techniques for worki
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/sukhbir77/OpenCV.git
+   git clone https://github.com/sukhbir77/computer-vision-projects-opencv.git
